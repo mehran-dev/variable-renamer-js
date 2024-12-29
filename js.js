@@ -8,3 +8,5 @@ let xdsv = 1;
 let xrtgh = 1;
 let xrthrt = 1;
 let xrth = 1;
+
+console.log(x);
